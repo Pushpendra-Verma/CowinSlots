@@ -1,0 +1,360 @@
+Name--Laharpur PHC AKBARPUR
+Dose1--9
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--CHC Laharpur 18 To 44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM']
+
+
+Name--Laharpur CHC
+Dose1--16
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC DHAKHERA
+Dose1--10
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Vikash Bhavan  Kheri 18-44 
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Colectrate Office Kheri 45
+Dose1--0
+Dose2--0
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--District Court Kheri 45
+Dose1--0
+Dose2--0
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Vikash Bhavan  Kheri 18-44 
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Dist Male Hospital Cvx
+Dose1--21
+Dose2--28
+Min Age--45
+Vaccine--COVAXIN
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--BSA Office Kheri 45
+Dose1--0
+Dose2--0
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--District Court Kheri 
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Phardhan CHC 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Dist Male Hospital
+Dose1--43
+Dose2--50
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Colectrate Office Kheri 
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Dist Women Hospital Cvx
+Dose1--28
+Dose2--28
+Min Age--45
+Vaccine--COVAXIN
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Dist Male Hospital 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Phardhan CHC
+Dose1--37
+Dose2--40
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--KHERI TOWN Phc
+Dose1--29
+Dose2--30
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--ABHIBHAVAK SPECIAL 01 18-44LMP
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Distt Women Hospital.
+Dose1--27
+Dose2--30
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Gutayabag PHC 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--ABHIBHAVAK SPECIAL 02 18-44LMP
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--KALA AAM PHC
+Dose1--27
+Dose2--30
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Nighasan CHC 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Distt Women Hospital. 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--BSA Office Kheri 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Mohammdi CHC. 18-44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Vikash Bhavan  Kheri 45
+Dose1--0
+Dose2--0
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+
+Name--Laharpur PHC AKBARPUR
+Dose1--9
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--CHC Laharpur 18 To 44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM']
+
+
+Name--Laharpur CHC
+Dose1--15
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC DHAKHERA
+Dose1--10
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC AKBARPUR
+Dose1--9
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC DHAKHERA
+Dose1--10
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur CHC
+Dose1--13
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--CHC Laharpur 18 To 44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM']
+
+
+Name--Laharpur CHC
+Dose1--20
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC AKBARPUR
+Dose1--9
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--CHC Laharpur 18 To 44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM']
+
+
+Name--Laharpur CHC
+Dose1--15
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC DHAKHERA
+Dose1--10
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC AKBARPUR
+Dose1--9
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur PHC DHAKHERA
+Dose1--10
+Dose2--10
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--Laharpur CHC
+Dose1--13
+Dose2--20
+Min Age--45
+Vaccine--COVISHIELD
+Slots--['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-06:00PM']
+
+
+Name--CHC Laharpur 18 To 44
+Dose1--0
+Dose2--0
+Min Age--18
+Vaccine--COVISHIELD
+Slots--['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM']
+
+
